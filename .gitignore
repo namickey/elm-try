@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+build/
+gradle/
+*.iml
+gradlew
+gradlew.bat
+out/
+elm-architecture-tutorial/
+elm-stuff/
+elm.json
+main.js
